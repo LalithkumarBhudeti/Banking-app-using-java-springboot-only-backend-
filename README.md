@@ -30,7 +30,7 @@ MySQL / PostgreSQL (configurable)
 
 Maven for dependency management
 
-Future Enhancements
+➡ Future Enhancements
 
 Role-based access (Admin, User)
 
